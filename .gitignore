@@ -1,8 +1,9 @@
 .venv/
-uv.lock
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.env
-.python-version
+*.egg-info
+__pycache__
+dist/
+*.pyc
+.venv
+.coverage
+coverage.xml
+*_cache/
