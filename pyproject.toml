@@ -27,6 +27,3 @@ dev = [
 
 [tool.hatch.build.targets.wheel]
 packages = ["brain_games"]
-include = [
-    "brain_games/**/*.py",
-]
