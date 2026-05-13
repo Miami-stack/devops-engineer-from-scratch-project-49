@@ -8,3 +8,6 @@ dist/
 coverage.xml
 *_cache/
 .ruff_cache
+hexlet_code.egg-info/
+brain_games/__pycache__/
+brain_games/scripts/__pycache__/
